@@ -1,6 +1,6 @@
-# Vehicle-Count-OnRoad-ML
+# RoadCCTV-VideoAnalysis
 
-The objective of this project is to detect and recognise vehicles given a CCTV footage. This was achieved through 2 Method :
+The objective of this project is to detect and recognise vehicles in a given CCTV footage. This was achieved through 2 Method :
 
 1. Image Differenciating Technique 
 2. YoloV3 
